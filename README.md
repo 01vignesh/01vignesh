@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from India</h3>a
+<h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 <br>
 <p>I am a final year MCA Student at Manipal Institute Of Technology, Manipal and BCA graduate from Mahatma Gandhi Memorial College, Udupi.</p>
 <br>
